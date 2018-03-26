@@ -15,11 +15,10 @@
 		"source" : "https://github.com/raoul2000/yii2-workflow-view",
 		"email" : "raoul.boulard@gmail.com"
 	},
-	"minimum-stability" : "stable",
 	"require" : {
 		"php" : ">=5.4.0",
 		"yiisoft/yii2" : "*",
-		"raoul2000/yii2-workflow" : ">=0.0.18",
+		"raoul2000/yii2-workflow" : "*",
 		"bower-asset/vis" : "*"
 	},
 	"config" : {
